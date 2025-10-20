@@ -1,0 +1,13 @@
+# --- Secrets / env files ---
+.env
+.env.*
+*.env
+!.env.example   # keep a template if you use one
+
+# --- Data files ---
+*.json
+*.csv
+
+# (optional) allowlist specific files you DO want tracked
+#!config/schema.json
+#!data/seed/sample.csv
