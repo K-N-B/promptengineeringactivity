@@ -1,0 +1,90 @@
+[
+  {
+    "domain": "Interactive Puzzle Experience",
+    "title": "Collaborative Puzzle Solving",
+    "summary": "Create an interactive platform that allows users to collaborate in real-time while solving puzzles. Users can invite friends, share hints, and track collective progress, enhancing social interaction and community engagement around puzzle-solving.",
+    "category": "Product",
+    "user_value": 8,
+    "feasibility": 7,
+    "novelty": 7,
+    "impact_score": 75.0,
+    "temperature": 0.8
+  },
+  {
+    "domain": "Interactive Puzzle Experience",
+    "title": "Augmented Reality Puzzle Integration",
+    "summary": "Develop an augmented reality feature where users can scan physical objects to unlock digital puzzles and clues. This merges the physical and digital worlds, offering a fresh and immersive puzzle experience that can be shared through social media.",
+    "category": "Feature",
+    "user_value": 9,
+    "feasibility": 5,
+    "novelty": 9,
+    "impact_score": 78.0,
+    "temperature": 0.8
+  },
+  {
+    "domain": "Interactive Puzzle Experience",
+    "title": "Puzzle Storyline Development",
+    "summary": "Introduce a storyline that evolves as users progress through puzzles. Each solved puzzle reveals a new chapter, creating an engaging narrative that motivates users to continue solving and exploring.",
+    "category": "Content",
+    "user_value": 8,
+    "feasibility": 6,
+    "novelty": 6,
+    "impact_score": 70.0,
+    "temperature": 0.8
+  },
+  {
+    "domain": "Interactive Puzzle Experience",
+    "title": "Skill-Based Puzzle Levels",
+    "summary": "Implement a tiered puzzle structure where users can select levels based on their skill sets. This personalization allows beginners to start easy, while experts can challenge themselves with more complex puzzles, catering to a wide audience.",
+    "category": "Product",
+    "user_value": 8,
+    "feasibility": 7,
+    "novelty": 5,
+    "impact_score": 71.0,
+    "temperature": 0.8
+  },
+  {
+    "domain": "Interactive Puzzle Experience",
+    "title": "Daily Puzzle Challenges",
+    "summary": "Introduce a feature that offers users a new puzzle challenge every day, encouraging regular engagement and creating a routine. Users can earn rewards or points for completing these challenges, enhancing their motivation.",
+    "category": "Feature",
+    "user_value": 7,
+    "feasibility": 8,
+    "novelty": 4,
+    "impact_score": 67.0,
+    "temperature": 0.8
+  },
+  {
+    "domain": "Interactive Puzzle Experience",
+    "title": "User-Generated Puzzles",
+    "summary": "Allow users to design and share their own puzzles with the community. This feature fosters creativity and user engagement, creating a diverse library of puzzles that can be enjoyed by others.",
+    "category": "Other",
+    "user_value": 9,
+    "feasibility": 6,
+    "novelty": 8,
+    "impact_score": 79.0,
+    "temperature": 0.8
+  },
+  {
+    "domain": "Interactive Puzzle Experience",
+    "title": "Puzzle Progress Analytics",
+    "summary": "Develop a feature that tracks users' solving patterns and progress over time, providing insights into their puzzle-solving skills. This can help users identify their strengths and weaknesses, making the experience more personalized.",
+    "category": "Feature",
+    "user_value": 6,
+    "feasibility": 7,
+    "novelty": 5,
+    "impact_score": 61.0,
+    "temperature": 0.8
+  },
+  {
+    "domain": "Interactive Puzzle Experience",
+    "title": "Themed Seasonal Puzzles",
+    "summary": "Create limited-time puzzles that are themed around holidays or seasons. This feature keeps the content fresh and encourages users to return to the platform frequently for new experiences.",
+    "category": "Content",
+    "user_value": 7,
+    "feasibility": 8,
+    "novelty": 6,
+    "impact_score": 71.0,
+    "temperature": 0.8
+  }
+]

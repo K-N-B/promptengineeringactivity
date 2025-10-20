@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Dynamic Personalized Meal Plans",
+    "judge_score": 58.0,
+    "judge_rationale": "The idea provides significant user value by addressing personalized dietary needs and promoting engagement through community sharing and gamification. However, the feasibility score is lowered due to potential challenges in accurately leveraging AI for dynamic meal planning. The novelty is moderate, as personalized meal plans exist but the integration of community and gamification adds a unique twist."
+  },
+  {
+    "title": "Smart Grocery List & Meal Prep Assistant",
+    "judge_score": 76.0,
+    "judge_rationale": "The idea provides significant user value by addressing meal planning and grocery shopping challenges, scoring high in user value. Feasibility is moderate due to potential technical challenges in syncing with local inventories and AI integration. Novelty is also good, but similar solutions exist, slightly lowering the score."
+  },
+  {
+    "title": "Interactive Meal Prep Masterclass",
+    "judge_score": 76.0,
+    "judge_rationale": "The idea offers high user value by providing personalized meal prep plans and community engagement, which can enhance adherence to meal plans. However, feasibility is somewhat limited due to the need for quality video production and community management. The novelty is moderate, as interactive meal prep content exists but may not be widely implemented in this format."
+  },
+  {
+    "title": "Interactive Community Recipe Hub",
+    "judge_score": 66.0,
+    "judge_rationale": "The idea has high user value due to community engagement and creativity, scoring 9. However, feasibility is moderate at 6, as building a robust platform with gamification and video content can be resource-intensive. Novelty is strong at 10, but the concept lacks specific details on implementation, which affects clarity."
+  },
+  {
+    "title": "AI-Enhanced Meal Planning with Social Engagement",
+    "judge_score": 26.0,
+    "judge_rationale": "The idea offers significant user value by providing personalized nutritional feedback and enhancing engagement through social features, but the vagueness in execution and potential technical challenges lowers feasibility. The novelty is moderate, as AI in meal planning is not entirely new, but the combination with social engagement adds a unique twist."
+  },
+  {
+    "title": "Personalized Seasonal Meal Planning",
+    "judge_score": 70.0,
+    "judge_rationale": "The idea scores well on user value due to its focus on personalized meal plans and sustainability, which are increasingly important to consumers. However, the feasibility score is moderate as implementing a dynamic feature that integrates local produce availability may face logistical challenges. The novelty is high, but the concept could benefit from more specific details on execution."
+  },
+  {
+    "title": "Personalized Allergy-Friendly Meal Planning",
+    "judge_score": 76.0,
+    "judge_rationale": "The idea scores high on user value as it addresses specific dietary needs, which is crucial for individuals with allergies. Feasibility is also strong due to existing technology for meal planning and community platforms. Novelty is moderate, as while personalized meal planning is common, the focus on allergy-friendliness and community engagement adds a unique twist."
+  },
+  {
+    "title": "Interactive Meal Challenge Hub",
+    "judge_score": 7.5,
+    "judge_rationale": "The idea provides high user value by fostering community engagement and offering rewards, which can motivate users to participate. However, the feasibility score is lower due to potential challenges in developing and maintaining the platform. The novelty is decent, but similar concepts exist, which slightly reduces its uniqueness."
+  }
+]

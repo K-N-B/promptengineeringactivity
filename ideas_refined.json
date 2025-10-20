@@ -1,0 +1,90 @@
+[
+  {
+    "domain": "Meal Plan",
+    "title": "Dynamic Personalized Meal Plans",
+    "summary": "Leverage AI to create dynamic meal plans tailored to individual dietary needs, preferences, and health goals. Users can input their restrictions, allergies, and goals to receive a custom weekly plan, enhanced with seasonal recipes, community sharing, and gamified challenges for a fun and engaging experience.",
+    "category": "Product",
+    "user_value": 10,
+    "feasibility": 8,
+    "novelty": 9,
+    "impact_score": 92.0,
+    "temperature": 0.3
+  },
+  {
+    "domain": "Meal Plan",
+    "title": "Smart Grocery List & Meal Prep Assistant",
+    "summary": "Automatically generate a personalized grocery list based on selected meal plans and pantry staples, enhanced with AI-driven recipe suggestions and dietary considerations. This feature syncs with local grocery store inventories for real-time availability and includes meal prep scheduling, nutritional insights, and collaborative sharing options.",
+    "category": "Product",
+    "user_value": 9,
+    "feasibility": 7,
+    "novelty": 8,
+    "impact_score": 82.0,
+    "temperature": 0.3
+  },
+  {
+    "domain": "Meal Plan",
+    "title": "Interactive Meal Prep Masterclass",
+    "summary": "Provide an engaging library of interactive video tutorials that teach meal prepping techniques tailored to various diets. Users can participate in challenges, share experiences in a community forum, and access personalized meal prep plans, making it easier to stick to their meal plans.",
+    "category": "Product",
+    "user_value": 9,
+    "feasibility": 7,
+    "novelty": 8,
+    "impact_score": 82.0,
+    "temperature": 0.3
+  },
+  {
+    "domain": "Meal Plan",
+    "title": "Interactive Community Recipe Hub",
+    "summary": "Create an engaging social platform where users can share, rate, and collaborate on meal plans and recipes. With gamification, seasonal suggestions, and video tutorials, the platform fosters community, encourages creativity, and enhances meal variety.",
+    "category": "Product",
+    "user_value": 9,
+    "feasibility": 6,
+    "novelty": 10,
+    "impact_score": 83.0,
+    "temperature": 0.3
+  },
+  {
+    "domain": "Meal Plan",
+    "title": "AI-Enhanced Meal Planning with Social Engagement",
+    "summary": "Utilize AI to analyze user meal choices and deliver personalized nutritional feedback, while incorporating gamification and social sharing features. This tool will suggest alternative ingredients and recipes tailored to individual dietary needs, enhancing user engagement and improving overall diet quality.",
+    "category": "Product",
+    "user_value": 10,
+    "feasibility": 6,
+    "novelty": 10,
+    "impact_score": 88.0,
+    "temperature": 0.3
+  },
+  {
+    "domain": "Meal Plan",
+    "title": "Personalized Seasonal Meal Planning",
+    "summary": "Develop a dynamic meal planning feature that curates personalized meal plans based on seasonal ingredients, dietary preferences, and local produce availability. This promotes fresh, sustainable eating while fostering connections with local farmers and communities.",
+    "category": "Product",
+    "user_value": 8,
+    "feasibility": 7,
+    "novelty": 9,
+    "impact_score": 79.0,
+    "temperature": 0.3
+  },
+  {
+    "domain": "Meal Plan",
+    "title": "Personalized Allergy-Friendly Meal Planning",
+    "summary": "Develop a comprehensive meal planning tool that allows users to input specific allergies and dietary restrictions, featuring a community-driven recipe sharing platform, a rating system for allergy-friendliness, and personalized meal suggestions to enhance safety and variety.",
+    "category": "Product",
+    "user_value": 9,
+    "feasibility": 8,
+    "novelty": 7,
+    "impact_score": 83.0,
+    "temperature": 0.3
+  },
+  {
+    "domain": "Meal Plan",
+    "title": "Interactive Meal Challenge Hub",
+    "summary": "Develop an interactive platform where users can participate in community-driven meal challenges, submit their own recipes, and earn rewards. Seasonal themes and personalized challenges will keep users engaged while fostering a sense of community through leaderboards and social sharing.",
+    "category": "Product",
+    "user_value": 9,
+    "feasibility": 6,
+    "novelty": 8,
+    "impact_score": 79.0,
+    "temperature": 0.3
+  }
+]
