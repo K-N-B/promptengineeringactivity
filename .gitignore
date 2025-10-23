@@ -7,6 +7,8 @@
 # --- Data files ---
 *.json
 *.csv
+idea_generator_by_yags.ipynb
+PromptDemo.ipynb
 
 # (optional) allowlist specific files you DO want tracked
 #!config/schema.json
